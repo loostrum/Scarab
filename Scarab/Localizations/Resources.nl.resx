@@ -121,25 +121,25 @@
     <value>, </value>
   </data>
   <data name="MI_InstallText_Installed" xml:space="preserve">
-    <value>Uninstall</value>
+    <value>Verwijderen</value>
   </data>
   <data name="MI_InstallText_NotInstalled" xml:space="preserve">
-    <value>Install</value>
+    <value>Installeren</value>
   </data>
   <data name="MLVM_ApiButtonText_DisableAPI" xml:space="preserve">
-    <value>Disable API</value>
+    <value>API uitschakelen</value>
   </data>
   <data name="MLVM_ApiButtonText_EnableAPI" xml:space="preserve">
-    <value>Enable API</value>
+    <value>API inschakelen</value>
   </data>
   <data name="MLVM_ApiButtonText_ToggleAPI" xml:space="preserve">
-    <value>Toggle API</value>
+    <value>API in/uitschakelen</value>
   </data>
   <data name="MLVM_ChangePathAsync_Msgbox_Text" xml:space="preserve">
-    <value>Re-open the installer to use your new path.</value>
+    <value>Heropen de installatie om het nieuwe pad te gebruiken.</value>
   </data>
   <data name="MLVM_ChangePathAsync_Msgbox_Title" xml:space="preserve">
-    <value>Path Changed!</value>
+    <value>Pad Aangepast!</value>
   </data>
   <data name="MLVM_DisplayHashMismatch_Msgbox_Text" xml:space="preserve">
     <value>The download hash for {0} ({1}) didn't match the given signature ({2}). It is either corrupt or the entry is incorrect.</value>
@@ -151,16 +151,16 @@
     <value>Unable to download {0}! The site may be down or you may lack network connectivity.</value>
   </data>
   <data name="MLVM_DisplayNetworkError_Msgbox_Title" xml:space="preserve">
-    <value>Network Error</value>
+    <value>Netwerkerror</value>
   </data>
   <data name="MLVM_InternalUpdateInstallAsync_Msgbox_W_Text" xml:space="preserve">
-    <value>Hollow Knight is open! This may lead to issues when installing mods. Close Hollow Knight?</value>
+    <value>Hollow Knight staat open! Dit kan leiden tot problemen met het installeren van mods. Hollow Knight afsluiten?</value>
   </data>
   <data name="MLVM_InternalUpdateInstallAsync_Msgbox_W_Title" xml:space="preserve">
-    <value>Warning!</value>
+    <value>Waarschuwing!</value>
   </data>
   <data name="MWVM_Impl_Error_Fetch_ModLinks_Error" xml:space="preserve">
-    <value>failed with HTTP error {0}</value>
+    <value>mislukt met HTTP error {0}</value>
   </data>
   <data name="MWVM_Impl_Error_Fetch_ModLinks_Msgbox_Text" xml:space="preserve">
     <value>Unable to get list of mods from modlinks, the operation {0}</value>
@@ -169,13 +169,13 @@
     <value>Error!</value>
   </data>
   <data name="MWVM_Impl_Error_Fetch_ModLinks_Timeout" xml:space="preserve">
-    <value>timed out. Please check your internet connection and try again</value>
+    <value>time-out. Check je internetverbinding en probeer het nogmaals</value>
   </data>
   <data name="MWVM_OutOfDate_GetLatest" xml:space="preserve">
     <value>Get the latest release</value>
   </data>
   <data name="MWVM_OutOfDate_ContinueAnyways" xml:space="preserve">
-    <value>Continue anyways.</value>
+    <value>Toch doorgaan.</value>
   </data>
   <data name="MWVM_OutOfDate_Title" xml:space="preserve">
     <value>Out of date!</value>
@@ -187,7 +187,7 @@
     <value>Scarab failed to download update automatically. Scarab will now open the link to get the latest version</value>
   </data>
   <data name="MWVM_Warning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Waarschuwing</value>
   </data>
   <data name="MWVM_InvalidSavedPath_Message" xml:space="preserve">
     <value>The saved Hollow Knight path is invalid, please re-select a valid path.</value>
@@ -205,64 +205,64 @@
     <value>Detected Hollow Knight install at {0}. Is this correct?</value>
   </data>
   <data name="XAML_ChangPath" xml:space="preserve">
-    <value>Change Path</value>
+    <value>Pad Aanpassen</value>
   </data>
   <data name="XAML_Dependencies" xml:space="preserve">
     <value>Dependencies:</value>
   </data>
   <data name="XAML_Donate" xml:space="preserve">
-    <value>Donate</value>
+    <value>Doneren</value>
   </data>
   <data name="XAML_ModsFilter_All" xml:space="preserve">
-    <value>All</value>
+    <value>Alles</value>
   </data>
   <data name="XAML_ModsFilter_Enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Ingeschakeld</value>
   </data>
   <data name="XAML_ModsFilter_Installed" xml:space="preserve">
-    <value>Installed</value>
+    <value>Geïnstalleerd</value>
   </data>
   <data name="XAML_ModsFilter_OutOfDate" xml:space="preserve">
     <value>Out of date</value>
   </data>
   <data name="XAML_OpenMods" xml:space="preserve">
-    <value>Open Mods Folder</value>
+    <value>Mods map openen</value>
   </data>
   <data name="XAML_Repository" xml:space="preserve">
     <value>Repository and Readme:</value>
   </data>
   <data name="XAML_SearchMark" xml:space="preserve">
-    <value>Mod Search</value>
+    <value>Mod Zoeken</value>
   </data>
   <data name="XAML_UpdateAPI" xml:space="preserve">
-    <value>Update API</value>
+    <value>API updaten</value>
   </data>
   <data name="XAML_Version" xml:space="preserve">
-    <value>Version:</value>
+    <value>Versie:</value>
   </data>
   <data name="XAML_Integrations" xml:space="preserve">
-    <value>Integrations:</value>
+    <value>Integraties:</value>
   </data>
   <data name="XAML_Tags" xml:space="preserve">
     <value>Tags:</value>
   </data>
   <data name="XAML_On" xml:space="preserve">
-    <value>On</value>
+    <value>Aan</value>
   </data>
   <data name="XAML_Off" xml:space="preserve">
-    <value>Off</value>
+    <value>Uit</value>
   </data>
   <data name="XAML_Ask" xml:space="preserve">
-    <value>Ask</value>
+    <value>Vragen</value>
   </data>
   <data name="XAML_Update" xml:space="preserve">
     <value>Update</value>
   </data>
   <data name="PU_NoSelect" xml:space="preserve">
-    <value>No path was selected!</value>
+    <value>Geen pad geselecteerd!</value>
   </data>
   <data name="PU_NoSelectMac" xml:space="preserve">
-    <value>No application was selected!</value>
+    <value>Geen applicatie geselecteerd!</value>
   </data>
   <data name="PU_InvalidPathHeader" xml:space="preserve">
     <value>Invalid Hollow Knight path!</value>
@@ -280,61 +280,61 @@
     <value>Missing Managed folder or Assembly-CSharp!</value>
   </data>
   <data name="PU_SelectPath" xml:space="preserve">
-    <value>Select your Hollow Knight folder.</value>
+    <value>Selecter de Hollow Knight map.</value>
   </data>
   <data name="PU_InvalidPathTitle" xml:space="preserve">
-    <value>Path</value>
+    <value>Pad</value>
   </data>
   <data name="PU_SelectApp" xml:space="preserve">
-    <value>Select your Hollow Knight app.</value>
+    <value>Selecteer de Hollow Knight app.</value>
   </data>
   <data name="PU_SelectEXE" xml:space="preserve">
     <value>Select your Hollow Knight executable or its shortcut.</value>
   </data>
   <data name="XAML_ModsFilter_OutOfDate_Update" xml:space="preserve">
-    <value>Update All</value>
+    <value>Alles Updaten</value>
   </data>
   <data name="MI_InstallText_NotInModlinks" xml:space="preserve">
-    <value>Uninstall</value>
+    <value>Verwijderen</value>
   </data>
   <data name="XAML_Open_Bulk_Action" xml:space="preserve">
     <value>Bulk Actions</value>
   </data>
   <data name="XAML_Disable_All_Installed" xml:space="preserve">
-    <value>Disable All</value>
+    <value>Alles Uitschakelen</value>
   </data>
   <data name="XAML_Enable_All_Installed" xml:space="preserve">
-    <value>Enable All</value>
+    <value>Alles Inschakelen</value>
   </data>
   <data name="XAML_Uninstall_All" xml:space="preserve">
-    <value>Uninstall All</value>
+    <value>Alles Verwijderen</value>
   </data>
   <data name="XAML_Authors" xml:space="preserve">
-    <value>Authors:</value>
+    <value>Auteurs:</value>
   </data>
   <data name="XAML_Search_Options" xml:space="preserve">
-    <value>Search Options</value>
+    <value>Zoekopties</value>
   </data>
   <data name="XAML_Search_Type" xml:space="preserve">
-    <value>Search Type</value>
+    <value>Zoektype</value>
   </data>
   <data name="XAML_Select_Tags" xml:space="preserve">
-    <value>Select Tags</value>
+    <value>Tags Selecteren</value>
   </data>
   <data name="XAML_Exact_Search" xml:space="preserve">
-    <value>Exact Search</value>
+    <value>Exact Zoeken</value>
   </data>
   <data name="XAML_Normal_Search" xml:space="preserve">
-    <value>Normal Search</value>
+    <value>Normaal Zoeken</value>
   </data>
   <data name="XAML_Search_Dependents" xml:space="preserve">
     <value>Search by Dependency</value>
   </data>
   <data name="XAML_Select_Mod" xml:space="preserve">
-    <value>Select Mod</value>
+    <value>Selecteer Mod</value>
   </data>
   <data name="XAML_No_Items" xml:space="preserve">
-    <value>No mods to display</value>
+    <value>Geen mods om weer te geven</value>
   </data>
   <data name="XAML_SavesFolder" xml:space="preserve">
     <value>Open Saves Folder</value>
@@ -343,19 +343,19 @@
     <value>Manually Install</value>
   </data>
   <data name="MLVM_Select_Mod" xml:space="preserve">
-    <value>Select the mod dll or zip</value>
+    <value>Selecteer de mod dll of zip</value>
   </data>
   <data name="XAML_NewMods" xml:space="preserve">
-    <value>New Mods</value>
+    <value>Nieuwe Mods</value>
   </data>
   <data name="XAML_UpdatedMods" xml:space="preserve">
-    <value>Updated Mods</value>
+    <value>Geüpdatete Mods</value>
   </data>
   <data name="XAML_LastWeek" xml:space="preserve">
-    <value>Last Week</value>
+    <value>Afgelopen Week</value>
   </data>
   <data name="XAML_LastMonth" xml:space="preserve">
-    <value>Last Month</value>
+    <value>Afgelopen Maand</value>
   </data>
   <data name="XAML_ModsFilter_WhatsNew" xml:space="preserve">
     <value>Whats New</value>
@@ -364,7 +364,7 @@
     <value>Copy Error</value>
   </data>
   <data name="XAML_ShowError" xml:space="preserve">
-    <value>Click to show full error</value>
+    <value>Klik om volledige error weer te geven</value>
   </data>
   <data name="XAML_EditSettings" xml:space="preserve">
     <value>Edit mod's settings file</value>
@@ -385,7 +385,7 @@
     <value>{0} is required for {1} to function properly. Do you still want to continue?</value>
   </data>
   <data name="MVVM_AreYouSure" xml:space="preserve">
-    <value>Warning! Are you sure you want to do this?</value>
+    <value>Waarschuwing! Weet je zeker dat je dit wilt doen?</value>
   </data>
   <data name="MVVM_SystemIOException_GeneralReason" xml:space="preserve">
     <value>Scarab was unable to access the file in the mods folder</value>
